@@ -4,7 +4,7 @@
 ## Common Java
 1. [Awesome Java](https://github.com/akullpp/awesome-java)
 2. [Best practices](https://github.com/futurice/android-best-practices#gradle-configuration)
-
+3. [Code path guides](https://github.com/codepath/android_guides)
 
 ## FAST start
 ## Boilerplates
