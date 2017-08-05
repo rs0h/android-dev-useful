@@ -44,4 +44,4 @@
 
 
 
-[Awesome awesomness](https://github.com/bayandin/awesome-awesomeness)
+[Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
